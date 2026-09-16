@@ -1,1 +1,0 @@
-${NWJS_EXE:-nw} ./chef-adventure/ "test" &>/dev/null &
